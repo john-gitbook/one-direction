@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Hello world](README.md)
-* [Page 1](page-1.md)
+* [Page Title goes here](page-1.md)
 
 ## Group 1
 
