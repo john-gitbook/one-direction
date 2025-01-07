@@ -1,3 +1,18 @@
-# Page 1 - title
+---
+description: Here is the page description
+layout:
+  title:
+    visible: true
+  description:
+    visible: false
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
 
-howya
+# Page Title
+
+Hi there
